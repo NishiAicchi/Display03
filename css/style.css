@@ -1,17 +1,17 @@
 div {
-    display: inline-block;
-    width: 230px;
-    height: 120px;
-    margin: 12px;
-    padding: 8px;
+    display: inline-block;  /*declarando el comportamiento*/
+    width: 230px;   /*estableciendo el ancho*/
+    height: 120px;  /*estableciendo el alto*/
+    margin: 12px;   /*modificando el margen*/
+    padding: 8px;   /*modificando el padding*/
 
 }
 
-.yellow {
-    background-color: gold;
+.gold {
+    background-color: gold; /*estableciendo el color de fondo*/
 }
 
 .black {
-    background-color: black;
-    color: white;
+    background-color: black;    /*estableciendo el color de fondo*/
+    color: white;   /*estableciendo el color del contenido*/
 }
